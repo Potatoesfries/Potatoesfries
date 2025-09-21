@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Virak, and I'm a software engineering student with multimedia, Im very interested in Web and Mobile Development!
 
-- 🔭 I’m currently working on [IOU](https://iou-com.onrender.com), a website to keep track on debts with functionality such as sending email reminders to debtor, and export as pdf for real life usage.
+- 🔭 I’m currently working on [IOU](https://iou-com.onrender.com), a website to keep track on debts with functionality such as sending email reminders to debtor, and export as pdf for real life usage. Check out repository [here](https://github.com/Potatoesfries/IOU.com)
 - 🌱 I’ve recently built a spotify clone [Spotify_Clone](https://spotify-aeyt.onrender.com), that you can listen to music and message other people that are on the app. Check out the repository [here](https://github.com/Potatoesfries/Spotify)
 - 📫 How to reach me: virak820604@gmail.com 
 
