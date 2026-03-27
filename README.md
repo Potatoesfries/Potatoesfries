@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Virak, and I'm a software engineering student with multimedia, I'm very interested in Web and Mobile Development!
+My name is Virak, and I'm a software engineering student with multimedia, I'm very interested in Mobile and Web Development!
 
 -  Recently developed **Spottr**, a social fitness platform connecting users with compatible workout partners. Check the repository **[Spottr](https://github.com/Potatoesfries/Spottr)**.
 -  Built **[face-cognition-DTR-system](https://github.com/Potatoesfries/DTR)**, a professional face scanner for employees and management system using AI-driven ArcFace recognition.
