@@ -1,24 +1,42 @@
-## Hi there 👋
-My name is Virak, and I'm a software engineering student with multimedia, Im very interested in Web and Mobile Development!
+# Hi there 👋 I'm Virak!
 
-- 🌱 I’ve built a spotify clone [Spotify_Clone](https://spotify-aeyt.onrender.com), that you can listen to music and message other people that are on the app. Check out the repository [here](https://github.com/Potatoesfries/Spotify)
-- 🔭 I've also recently built [IOU](https://iou-com.onrender.com), a website to keep track on debts with functionality such as sending email reminders to debtor, and export as pdf for real life usage. Check out repository [here](https://github.com/Potatoesfries/IOU.com)
-- 🚀 Currently leveling up my skills in Spring Boot — send help or snacks.
-- 📫 How to reach me: virak820604@gmail.com 
+I'm a **Software Engineering & Multimedia Student** passionate about building high-impact Web and Mobile applications. I specialize in creating tools that combine modern design with powerful backend logic.
 
+---
 
+### 🚀 Recent Projects
 
-<!--
-**Potatoesfries/Potatoesfries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🎖️ **[DTR - Face Recognition System](https://github.com/Potatoesfries/DTR)**
+*A professional Attendance & Employee Management system utilizing biometric security.*
+- **Tech Stack**: Flutter, Node.js, Python (DeepFace/ArcFace), MongoDB.
+- **Key Feature**: High-precision facial recognition for seamless student/employee tracking.
 
-Here are some ideas to get you started:
+#### 🏋️ **[Spottr](https://github.com/Potatoesfries/Spottr)**
+*A social fitness platform designed to connect users with compatible workout partners.*
+- **Tech Stack**: React, Node.js, Socket.io.
+- **Key Feature**: Social connectivity for the fitness community to bridge the gap between solo workouts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎵 **[Spotify Clone](https://spotify-aeyt.onrender.com)**
+*A full-featured music streaming platform with social messaging.*
+- **Check the repo**: [github.com/Potatoesfries/Spotify](https://github.com/Potatoesfries/Spotify)
+- **Key Feature**: Integrated real-time messaging for fans to connect while listening.
+
+#### 💸 **[IOU.com](https://iou-com.onrender.com)**
+*Smart debt management system for accurate local tracking.*
+- **Check the repo**: [github.com/Potatoesfries/IOU.com](https://github.com/Potatoesfries/IOU.com)
+- **Key Feature**: Automated email reminders to debtors and PDF exports for official usage.
+
+---
+
+### 🛠️ Tools & Currently Learning
+- 🚀 **Leveling up**: Deep-diving into **Spring Boot** for enterprise-grade backends.
+- 🌱 **Cross-Platform**: Mastering **Flutter** for beautiful, native mobile experiences.
+- 🔭 **Interests**: Full-stack Development, UI/UX Design, and AI Integration.
+
+---
+
+### 📫 Reach Me
+- 📧 **Email**: [virak820604@gmail.com](mailto:virak820604@gmail.com)
+
+---
+*Created with ❤️ by Virak*
